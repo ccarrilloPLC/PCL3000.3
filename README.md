@@ -1,2 +1,2 @@
-# PCL3000.3
+# PCL3000
 Actividades de ejercicios de práctica PLC
